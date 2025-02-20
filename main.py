@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import LCD1602
-import file_1 as menu
-import file_3 as motion  # Import the motion detection module
+import menu
+import motion  # Import the motion detection module
 
 if __name__ == "__main__":
     try:
